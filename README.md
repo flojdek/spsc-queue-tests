@@ -1,3 +1,11 @@
+So I watched this talk by Fedor Pikus:
+
+[CppCon 2016: Fedor Pikus “The speed
+of concurrency (is lock-free faster?)](https://www.youtube.com/watch?v=9hJkWwHDDxs)
+
+And it was really interesting (confusing?)... figured out I'm gonna play with the simplest version of lock-free queues.
+Just to wrap my head around a bit more how it is implemented.
+
 # Build
 
     cmake .
