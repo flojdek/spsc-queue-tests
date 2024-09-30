@@ -33,3 +33,7 @@ On my Mac Apple M3 Pro:
     1: consumer: processed 100000000 msgs, duration [micros] = 5.07892e+06, tps = 1.96892e+07, avg per msg [nanos] = 50.7892
     2: producer: processed 100000000 msgs, duration [micros] = 5.36668e+06, tps = 1.86335e+07, avg per msg [nanos] = 53.6668
     2: consumer: processed 100000000 msgs, duration [micros] = 5.37014e+06, tps = 1.86215e+07, avg per msg [nanos] = 53.7014
+
+# Links
+
+https://www.codeproject.com/Articles/43510/Lock-Free-Single-Producer-Single-Consumer-Circular this article is perfect.
